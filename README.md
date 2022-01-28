@@ -30,11 +30,11 @@
 <p><a href="https://www.buymeacoffee.com/anika001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anika001" /></a></p><br><br>
 <br /><div/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anika-001&show_icons=true&locale=en&layout=compact" alt="anika-001" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anika-001&show_icons=true&locale=en" alt="anika-001" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anika-001&" alt="anika-001" /></p>
-
+<br />
 
 <!--
 **anika-001/anika-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
