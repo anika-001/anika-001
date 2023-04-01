@@ -7,7 +7,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-:octocat: Hello, my name is Anika Tibrewala. I am a senior year student at Usha Mittal Institute of Technology, currently undertaking my Bachelor in Computer Science and Technology.  Love all things tech, interacting with people, organizing various community events, workshops and so much more to create the impact I wish to see in our tomorrow! Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/anika-tibrewala/">LinkedIn</a> or <a href="https://twitter.com/anikatibrewala">Twitter</a>. 
+:octocat: Hello, my name is Anika Tibrewala. I love all things tech, interacting with people, organizing various community events, workshops and so much more to create the impact I wish to see in our tomorrow! Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/anika-tibrewala/">LinkedIn</a> or <a href="https://twitter.com/anikatibrewala">Twitter</a>. 
 </p>
 
 <hr />
